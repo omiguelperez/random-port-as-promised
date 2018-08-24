@@ -1,0 +1,40 @@
+{
+  "name": "random-port-promise",
+  "version": "1.0.0",
+  "description": "random-port as promised",
+  "main": "index.js",
+  "dependencies": {
+    "bluebird": "^3.5.1",
+    "co": "^4.6.0",
+    "random-port": "^0.1.0"
+  },
+  "devDependencies": {
+    "chai": "^4.1.2",
+    "istanbul": "^0.4.5",
+    "mocha": "^5.2.0"
+  },
+  "scripts": {
+    "test": "mocha --reporter spec"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/omiguelperez/random-port-promise.git"
+  },
+  "keywords": [
+    "random-port",
+    "random-port",
+    "then",
+    "promise",
+    "random",
+    "port",
+    "co",
+    "promised",
+    "callback"
+  ],
+  "author": "Oscar Pérez <mr.omiguelperez@gmail.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/omiguelperez/random-port-promise/issues"
+  },
+  "homepage": "https://github.com/omiguelperez/random-port-promise#readme"
+}
